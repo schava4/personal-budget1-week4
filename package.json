@@ -1,0 +1,24 @@
+{
+  "name": "personal-budget1-week4",
+  "version": "1.0.0",
+  "description": "The path to NGInx main folder: /usr/share/nginx/html",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schava4/personal-budget1-week4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schava4/personal-budget1-week4"
+  },
+  "homepage": "https://github.com/schava4/personal-budget1-week4",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
